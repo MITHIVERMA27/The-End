@@ -1,1 +1,2 @@
-# The-End
+# trex-game
+trex runner infinite game
